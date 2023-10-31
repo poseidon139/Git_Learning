@@ -1,1 +1,1 @@
-whole line got changed by dev 2 
+whole line got changed by dev 1
